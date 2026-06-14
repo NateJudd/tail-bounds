@@ -1,8 +1,6 @@
 # Tail Bounds for Heavy-Tailed Sums
 
-A comparison of lower bounding methods.
-
-Numerical comparison of tail probability bounds for sums of i.i.d. random variables, with a focus on the Lomax (Pareto Type II) distribution. Implements a Riesz–Hölder / Chebyshev–Markov lower bound alongside classical competitors (Bonferroni, Chernoff, Bernstein, Bennett, Paley–Zygmund).
+A comparison of tail-bounding methods for sums of i.i.d. random variables, with a focus on the Lomax (Pareto Type II) distribution. Implements a Riesz–Hölder / Chebyshev–Markov lower bound alongside classical competitors like Paley–Zygmund. We compare with upper bounds (Bonferroni, Chernoff, Bernstein, Bennett) and numerical approximatioms of the truth (CDF).
 
 ## Structure
 
