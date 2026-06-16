@@ -16,6 +16,8 @@ A comparison of tail-bounding methods for sums of i.i.d. random variables, with 
     ├── rh_cm_lb.py       # RH-CM target bound
     ├── scaling.py        # t_n = c, c*sqrt(n), c*n regimes
     └── plotting.py       # matplotlib figures
+└── examples/
+    ├── demo.py  # demonstration of the package
 ```
 
 ## Quickstart
